@@ -14,7 +14,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles And thank youy so much @jigar-sable for the structure and soo much help without him this can't be done.
+If you want to contact me, you can reach me through below handles And thank youy so much @jigar-sable for the structure and soo much help without him this can't be done. also @SushainGupta thank you for fixing the EmailJS problem without you i cant fix the problem.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/viveksaha05/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
