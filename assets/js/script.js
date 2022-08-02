@@ -36,33 +36,35 @@ $(document).ready(function () {
             scrollTop: $($(this).attr('href')).offset().top,
         }, 500, 'linear')
     });
+    
 
-    // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-
+   // <!-- emailjs to mail contact form data -->
+    $("#contact-form").submit(function (event) {        
+        emailjs.init("gmjEm38patrm46SKK");
+        
         var templateParams = {
-            Name : document.getElementById("from_name").value,
-            Email : document.getElementById("email_id").value,
-            Phone : document.getElementById("phone_no").value,
-            Message : document.getElementById("message").value,
+            from_name: document.getElementById("name").value,
+            email_id: document.getElementById("email").value,
+            phone_no: document.getElementById("phone").value,
+            message: document.getElementById("message").value,
         }
 
-        emailjs.init("gmjEm38patrm46SKK");
 
-        emailjs.sendForm('service_q66f5kf','template_j61w39o','templateParams')
+        emailjs.send('service_q66f5kf','template_j61w39o', templateParams)
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
                 alert("Form Submitted Successfully");
+                document.getElementById("contact-form").reset();
             }, function (error) {
                 console.log('FAILED...', error);
                 alert("Form Submission Failed! Try Again later");
             });
         event.preventDefault();
     });
+});
+    
     // <!-- emailjs to mail contact form data -->
 
-});
 
 document.addEventListener('visibilitychange',
     function () {
