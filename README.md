@@ -12,6 +12,9 @@ This is my perosnal portfolio which i made using HTML5, CSS3, JavaScript and jQu
 ### Extras : 
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
+## Some Glimpse 🤩 :
+
+
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles And thank youy so much @jigar-sable for the structure and soo much help without him this can't be done. also @SushainGupta thank you for fixing the EmailJS problem without you i cant fix the problem.
