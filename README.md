@@ -10,10 +10,23 @@ This is my perosnal portfolio which i made using HTML5, CSS3, JavaScript and jQu
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 ### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, EmailJS, Font Awesome and JSON
 
 ## Some Glimpse 🤩 :
-
+<table>
+ <tr>
+  <td><img src = "https://user-images.githubusercontent.com/108818360/183827700-4b736a9e-1ebf-4e88-b6ec-a2725c67e52c.png" width="500"></td>
+  <td><img src = "https://user-images.githubusercontent.com/108818360/183827738-0d3282af-bac3-4c5c-a192-ff65f1374587.png" width="500"></td>
+ </tr>
+</table>
+<div align="center">
+<table>
+<tr>
+<td><img src = "https://user-images.githubusercontent.com/108818360/183827749-5aa2a0c6-780f-4ada-9c00-ea6a9e40be36.png" width="200"></td>
+<td><img src = "https://user-images.githubusercontent.com/108818360/183827754-2ca7e738-5b1b-4e22-a3e6-dd036f431a50.png" width="200"></td>
+</table>
+</tr>
+</div>
 
 <h2>📬 Contact</h2>
 
