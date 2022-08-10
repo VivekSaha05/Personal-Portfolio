@@ -68,6 +68,10 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
         "name": "Kotlin",
         "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
     },
@@ -108,8 +112,8 @@
         "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "Vercel",
+        "icon": "https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/000000/external-glyph-shapes-tanah-basah-glyph-tanah-basah-69.png"
     },
     {
         "name": "Git VCS",
